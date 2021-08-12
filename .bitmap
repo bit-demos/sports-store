@@ -22,8 +22,8 @@
         "rootDir": "sports-store/entity/sports-shoes"
     },
     "readme": {
-        "scope": "",
-        "version": "",
+        "scope": "learn-bit-react.sports-store",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "readme"
     },
